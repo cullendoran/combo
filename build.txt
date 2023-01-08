@@ -1,0 +1,3 @@
+displayName = Combo+
+author = kfasick/LuckE
+version = 0.1
